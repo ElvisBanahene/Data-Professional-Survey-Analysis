@@ -1,6 +1,8 @@
 Data Professional Survey Analysis | Power BI
 Project Overview
-How are professionals in the data industry doing? What are their salaries, favorite programming languages, and experiences breaking into the field? How satisfied are they with their work-life balance and compensation?
+How are professionals in the data industry doing? 
+What are their salaries, favorite programming languages, and experiences breaking into the field? 
+How satisfied are they with their work-life balance and compensation?
 
 This project explores these questions through an interactive Power BI dashboard built using real survey data from professionals in the data industry.
 
